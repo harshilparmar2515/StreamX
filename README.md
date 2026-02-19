@@ -61,6 +61,9 @@ Login & subscription page
 
 CSS-only carousel slider
 
+<img width="1920" height="1020" alt="Screenshot 2026-02-19 140201" src="https://github.com/user-attachments/assets/689c86e8-9d4c-4e8f-84d2-d45fe2c69188" />
+
+
 Watchlist UI
 
 Profile selection screen
